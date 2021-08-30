@@ -543,7 +543,7 @@ body {
   }
 
   .navbar-container input[type="checkbox"]:checked ~ .hamburger-lines .line1 {
-    transform: rotate(36deg);
+    transform: rotate(35deg);
   }
 
   .navbar-container input[type="checkbox"]:checked ~ .hamburger-lines .line2 {
@@ -551,7 +551,7 @@ body {
   }
 
   .navbar-container input[type="checkbox"]:checked ~ .hamburger-lines .line3 {
-    transform: rotate(-36deg);
+    transform: rotate(-35deg);
   }
 
   /* ......./ food /......... */
