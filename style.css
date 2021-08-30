@@ -527,7 +527,7 @@ body {
 
   .navbar .menu-items li {
     margin-bottom: 1.5rem;
-    font-size: 1rem;
+    font-size: 1.3rem;
     font-weight: 500;
   }
 
@@ -616,6 +616,12 @@ body {
     top: 06px;
     right: 15px;
     font-size: 3rem;
+  }
+
+  .navbar .menu-items li {
+    margin-bottom: 2.5rem;
+    font-size: 1.8rem;
+    font-weight: 500;
   }
 }
 
